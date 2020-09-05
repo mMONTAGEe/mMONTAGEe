@@ -1,5 +1,5 @@
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
-###📫 How to reach me: My Discord mMONTAGEe#9127
+### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning Java,Math,AstroPhysics.
 
 <!--
