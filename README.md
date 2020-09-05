@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. Im kinda texture maker. and translator to RU.
+###📫 How to reach me: My Discord mMONTAGEe#9127
+### 🌱 I’m currently learning Java,Math,AstroPhysics.
 
 <!--
 **mMONTAGEe/mMONTAGEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
