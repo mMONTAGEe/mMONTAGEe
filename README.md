@@ -1,7 +1,7 @@
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Java,Math,AstroPhysics.
-### 🤔 I’m  planning to learn: Python,Driving Car.
+### 🤔 I’m  planning to learn: Python,Driving Car,Rocket mechanics, and some Astro items.
 
 <!--
 **mMONTAGEe/mMONTAGEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
