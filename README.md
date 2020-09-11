@@ -4,6 +4,7 @@
 ### 🌱 I’m currently learning: Java,Math,AstroPhysics.
 ### 🤔 I’m  planning to learn: Python,Driving Car,Rocket mechanics, and some Astro items.
 ## 🏅 My goals so far.
+* Asset Artist in Interstellar Exoplanets.
 * Kinda texture concept artist in (Tamakii's GC addon)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
