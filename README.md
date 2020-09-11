@@ -1,4 +1,4 @@
-![avatar](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/M%20logo.png)
+
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Java,Math,AstroPhysics.
@@ -7,6 +7,9 @@
 * Kinda texture concept artist in (Tamakii's GC addon)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
+
+### My biggest project is.
+![Slogan](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/Slogan.png)
 
 <!--
 **mMONTAGEe/mMONTAGEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
