@@ -1,3 +1,4 @@
+![avatar](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/M%20logo.png)
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Java,Math,AstroPhysics.
