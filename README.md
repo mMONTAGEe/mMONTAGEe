@@ -13,9 +13,14 @@
 * Kinda texture concept artist in (Tamakii's GC addon)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
+----------------------------------------------------------------------------------------------------------------------------------------
+💻 i use IntelliJ IDEA to work with (**Python**, **JAVA**)
+
 
 ### [`` My biggest project is.``](https://mmontagee.github.io/CRYPTO-Bot/)
 ![Slogan](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/Slogan.png)
+
+
 
 
 
