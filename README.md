@@ -6,6 +6,7 @@
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Java,Math,AstroPhysics.
 ### 🤔 I’m  planning to learn: Python,Driving Car,Rocket mechanics, and some Astro items.
+### ⚡ Fun fact: Im Armenian lol
 ## 🏅 My goals so far.
 * Asset Artist in Interstellar Exoplanets.
 * Translator in Interstellar Exoplanets.
