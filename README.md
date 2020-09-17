@@ -1,5 +1,5 @@
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true")
+![My github stats hehe](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true")
 
 
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
