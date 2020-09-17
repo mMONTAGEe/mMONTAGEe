@@ -1,5 +1,22 @@
 
-![My github stats hehe](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true")
+![My github stats hehe](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true&theme=vue")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</details>
+
+[website]: https://mmontagee.github.io/mMONTAGEe/
+[twitter]: https://twitter.com/mmontagee
+[youtube]: https://www.youtube.com/channel/UCP68rAljMgUpYVKM_8WvEBQ
+[instagram]: https://www.instagram.com/mmontagee_eds/
+
+
+
+<br />
 
 
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
@@ -13,6 +30,8 @@
 * Kinda texture concept artist in (Tamakii's GC addon)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 💻 i use IntelliJ IDEA to work with (**Python**, **JAVA**)
 
@@ -22,7 +41,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
