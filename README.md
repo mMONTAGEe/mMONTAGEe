@@ -13,6 +13,10 @@
 ### [`` My biggest project is.``](https://mmontagee.github.io/CRYPTO-Bot/)
 ![Slogan](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/Slogan.png)
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true")
+
+
 <!--
 **mMONTAGEe/mMONTAGEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
