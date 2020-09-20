@@ -22,8 +22,8 @@
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
 ### 💻 i use IntelliJ IDEA to work with (**Python**, **JAVA**)
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
-### 🌱 I’m currently learning: Java,Math,AstroPhysics.
-### 🤔 I’m  planning to learn: Python,Driving Car,Rocket mechanics, and some Astro items.
+### 🌱 I’m currently learning: Python,Java,Math,AstroPhysics.
+### 🤔 I’m  planning to learn: ,Driving Car,Rocket mechanics, and some Astro items.
 ### ⚡ Fun fact: Im Armenian lol
 ## 🏅 My goals so far.
 * Asset Artist in Interstellar Exoplanets.
