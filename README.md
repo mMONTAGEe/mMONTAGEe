@@ -18,7 +18,7 @@
 
 <br />
 
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-red)
 ### Hi there 👋. Im kinda texture maker. and translator to RU.
 ### 💻 i use IntelliJ IDEA to work with (**Python**, **JAVA**)
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
