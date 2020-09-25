@@ -14,7 +14,7 @@
 
 <br />
 
-### Hi there 👋. Im kinda texture maker. and translator to RU.
+### Hi there 👋. Im Basic human. that trying to learn something. 
 ### 💻 i use IntelliJ IDEA to work with (**Python**, **JAVA**)
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Python,Java,Math,AstroPhysics.
