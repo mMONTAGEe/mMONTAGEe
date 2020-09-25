@@ -1,8 +1,4 @@
 
-![My github stats hehe](https://github-readme-stats.vercel.app/api?username=mmontagee&show_icons=true&theme=vue")
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmontagee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -30,6 +26,10 @@
 * Kinda texture concept artist in (Tamakii's GC addon)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmontagee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
