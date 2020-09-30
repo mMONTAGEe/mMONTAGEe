@@ -22,7 +22,7 @@
 ## 🏅 My goals so far.
 * Asset Artist in Interstellar Exoplanets.
 * Translator in Interstellar Exoplanets.
-* Kinda texture concept artist in (Tamakii's GC addon)
+* Kinda texture concept artist in (GalaXcraft)
 * Translator in Zollern Galaxy.
 * translator in Python API Minecraft
 
