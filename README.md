@@ -17,7 +17,7 @@
 ### Hi there 👋. Im Basic human. that trying to learn something. 
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
 ### 🌱 I’m currently learning: Math,Physics
-### 🤔 I’m  planning to learn: Python
+### 🤔 I’m  planning to learn: Python,Linux
 ### ⚡ Fun fact: Im Armenian lol
 ## 🏅 My goals so far.
 * Asset Artist in Interstellar Exoplanets.
