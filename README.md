@@ -16,7 +16,7 @@
 
 ### Hi there 👋. Im Basic human. that trying to learn something. 
 ### 📫 How to reach me: My Discord mMONTAGEe#9127
-### 🌱 I’m currently learning: Python,Java,Math,AstroPhysics.
+### 🌱 I’m currently learning: Math,Physics
 ### 🤔 I’m  planning to learn: ,Driving Car,Rocket mechanics, and some Astro items.
 ### ⚡ Fun fact: Im Armenian lol
 ## 🏅 My goals so far.
