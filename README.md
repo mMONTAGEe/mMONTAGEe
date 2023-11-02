@@ -22,7 +22,6 @@ fields_of_interests:
     "Network Engineering, Cybersecurity"
     "Web Development",
     "Machine Learning",
-    "UI/UX",
     "Worldbuilding",
     "Operation System",
     "Natural Sciences, Astronomy, Physics"
