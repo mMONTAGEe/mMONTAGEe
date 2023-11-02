@@ -41,7 +41,7 @@ hobbies: ["Gaming", "Books", "Stargazing"]
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=blue_green" style="text-align: center;">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mMONTAGEe&theme=blue_green" style="text-align: center;">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=blue_green" style="text-align: center;">
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=blue_green&gmtOffset=4" style="text-align: center;">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=blue_green&utcOffset=4" style="text-align: center;">
 </div>
 
 
