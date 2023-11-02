@@ -43,6 +43,10 @@ hobbies: ["Gaming", "Books", "Stargazing"]
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=blue_green&utcOffset=4" style="text-align: center;">
 </div>
 
+<p align="center">
+<a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/c64502887e78e75d5eb9dfe6f0c5903cdb50e768/youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
+<a href="gamejolt.com/invite/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/c64502887e78e75d5eb9dfe6f0c5903cdb50e768/game-jolt-48.svg" alt="GameJolt" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31ybac5sqpk3dsneorr2ad2oorgq?si=04f2da9ca4994ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/c64502887e78e75d5eb9dfe6f0c5903cdb50e768/spotify.svg" alt="Spotify" height="30" width="40" /></a>
 
 
 <p align="center">
