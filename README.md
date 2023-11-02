@@ -26,7 +26,7 @@ education:
 
 educational_ambitions:
   [
-    "Armenian Translation for Space Engine",
+    "Armenian Translation for Space Engine by Cosmographic Software",
     "Armenian Translation for Minecraft Mod Galacticraft 4 and 5",
     "Presentation introducing to Astronomy as Science in 9th grade to class and teachers",
     ".pdf documents about C++ Programming Language made for class, Downloadable from public archive made for them",
