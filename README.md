@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome.&height=100&section=header"/>
 </p>
 
-![](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/1.png)
+![](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/1.png?raw=true)
 
 ```yaml
 name: 404
