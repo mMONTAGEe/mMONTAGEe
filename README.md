@@ -3,11 +3,10 @@
 </p>
 
 ![](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/1.png)
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: 404
-located_in: yEREVAN, aRMENIA
+located_in: Yerevan, Armenia
 
 education:
   [
