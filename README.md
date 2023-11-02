@@ -31,11 +31,15 @@ fields_of_interests:
 currently_learning: ["C++"]
 hobbies: ["Gaming", "Books", "Stargazing"]
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mMONTAGEe&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mMONTAGEe&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=dracula&utcOffset=8)
+<div style="text-align: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mMONTAGEe&theme=dracula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=dracula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mMONTAGEe&theme=dracula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=dracula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=dracula&utcOffset=8">
+</div>
+
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
