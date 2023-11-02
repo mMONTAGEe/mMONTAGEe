@@ -5,11 +5,12 @@
 ![](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/banner.png?raw=true)
 <p align="center">
 <a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
+<a href="https://crowdin.com/profile/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/e3acf3bbcd2080f6a6537ef4484b5e420ed58bce/crowdin-svgrepo-com.svg" alt="Crowdin" height="30" width="40" /></a>
 <a href="gamejolt.com/invite/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-game-jolt.svg" alt="GameJolt" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31ybac5sqpk3dsneorr2ad2oorgq?si=04f2da9ca4994ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-spotify.svg" alt="Spotify" height="30" width="40" /></a>
 <a href="https://modrinth.com/user/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/d9320aee4d1ab964e071bf43879719d1fec72808/modrinth.svg" alt="Modrinth" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/099380eb5ec9f5fa6d2809bcb5544f6a0ddbef6e/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
 <a href="https://legacy.curseforge.com/members/mmontagee/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/fd90667b01da742c3badd426cf2b5e3d2a717450/icons8-curseforge.svg" alt="CurseForge" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/099380eb5ec9f5fa6d2809bcb5544f6a0ddbef6e/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
 
 ```yaml
 name: 404
@@ -23,11 +24,22 @@ education:
     "Self Taught Physics.",
   ]
 
+educational_ambitions:
+  [
+    "Armenian Translation for Space Engine",
+    "Armenian Translation for Minecraft Mod Galacticraft 4 and 5",
+    "Presentation introducing to Astronomy as Science in 9th grade to class and teachers",
+    ".pdf documents about C++ Programming Language made for class, Downloadable from public archive made for them",
+    "Presenting Mikhail Lomonosov to College students, His studies on Venusian Atmosphere, Inventions in painted glass and Moscow Lomonosov Institute",
+    "Audible Sounds of Pulsars published on Workshop's YouTube channel"
+  ]
+
 fields_of_interests:
   [
-    "Software Developer",
+    "Software Developer".
     "Network Engineering, Cybersecurity"
     "Web Development",
+    "Software Translation",
     "Machine Learning",
     "Worldbuilding",
     "Operation System",
