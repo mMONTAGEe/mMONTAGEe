@@ -32,7 +32,7 @@ currently_learning: ["C++"]
 hobbies: ["Gaming", "Books", "Stargazing"]
 ```
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/mMONTAGEe/mMONTAGEe/blob/master/div.png?raw=true"/>
 </p>
 
@@ -46,6 +46,6 @@ hobbies: ["Gaming", "Books", "Stargazing"]
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
 </p>
