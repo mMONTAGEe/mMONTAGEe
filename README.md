@@ -23,7 +23,7 @@ fields_of_interests:
     "Web Development",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Worldbuilding",
     "Operation System",
     "Natural Sciences, Astronomy, Physics"
   ]
