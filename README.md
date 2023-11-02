@@ -37,11 +37,11 @@ hobbies: ["Gaming", "Books", "Stargazing"]
 </p>
 
 <div style="text-align: center;">
-    <img style="text-align: center;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mMONTAGEe&theme=dracula">
-    <img style="text-align: center;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=dracula">
-    <img style="text-align: center;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mMONTAGEe&theme=dracula">
-    <img style="text-align: center;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=dracula">
-    <img style="text-align: center;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=dracula&utcOffset=8">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mMONTAGEe&theme=dracula" style="text-align: center;">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=dracula" style="text-align: center;">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mMONTAGEe&theme=dracula" style="text-align: center;">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=dracula" style="text-align: center;">
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=dracula&utcOffset=8" style="text-align: center;">
 </div>
 
 
