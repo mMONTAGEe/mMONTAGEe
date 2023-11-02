@@ -7,6 +7,7 @@
 <a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
 <a href="gamejolt.com/invite/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-game-jolt.svg" alt="GameJolt" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31ybac5sqpk3dsneorr2ad2oorgq?si=04f2da9ca4994ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-spotify.svg" alt="Spotify" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/099380eb5ec9f5fa6d2809bcb5544f6a0ddbef6e/icons8-steam.svg" alt="Spotify" height="30" width="40" /></a>
 
 ```yaml
 name: 404
