@@ -20,6 +20,7 @@ education:
 fields_of_interests:
   [
     "Software Developer",
+    "Network Engineering, Cybersecurity"
     "Web Development",
     "Machine Learning",
     "UI/UX",
