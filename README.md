@@ -31,6 +31,11 @@ fields_of_interests:
 currently_learning: ["C++"]
 hobbies: ["Gaming", "Books", "Stargazing"]
 ```
+
+<p align="left">
+  <img src="https://github.com/mMONTAGEe/mMONTAGEe/blob/master/div.png?raw=true"/>
+</p>
+
 <div style="text-align: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mMONTAGEe&theme=dracula">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mMONTAGEe&theme=dracula">
