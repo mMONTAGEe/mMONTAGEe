@@ -20,8 +20,8 @@ education:
   [
     "Student at ԻՏԿՔ College",
     "Learning C++, JS, React, Python, Java",
-    "Self Taught Astronomy, Astrophysics and Planetology",
-    "Self Taught Physics.",
+    "Self Taught Amateur Astronomy, Astrophysics and Planetology",
+    "Self Taught Amateur Physics.",
   ]
 
 educational_ambitions:
@@ -32,6 +32,7 @@ educational_ambitions:
     ".pdf documents about C++ Programming Language made for class, Downloadable from public archive made for them",
     "Presenting Mikhail Lomonosov to College students, His studies on Venusian Atmosphere",
     "Audible Sounds of Pulsars published on Workshop's YouTube channel"
+    "Fiction Stories Worldbuilding"
   ]
 
 fields_of_interests:
