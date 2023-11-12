@@ -49,6 +49,8 @@ fields_of_interests:
   
 currently_learning: ["C++"]
 hobbies: ["Gaming", "Books", "Stargazing"]
+
+شكرا لك جيرارداغ على كل المساعدة!
 ```
 
 <p align="center">
@@ -62,8 +64,6 @@ hobbies: ["Gaming", "Books", "Stargazing"]
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=blue_green" style="text-align: center;">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=blue_green&utcOffset=4" style="text-align: center;">
 </div>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
