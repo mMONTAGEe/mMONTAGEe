@@ -14,7 +14,7 @@
 <a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/099380eb5ec9f5fa6d2809bcb5544f6a0ddbef6e/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
 <br>
 <br>
-( Partner: <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/97efbad58044b7586aff10a9536f1cecccad0ef9/skull-outline-of-halloween-svgrepo-com(2).svg" alt="Gerardagh" height="30" width="40" /></a>)
+( Partner: <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/5b8df4b648a5c072ead8676610ccba7b39562a3b/telephone-svgrepo-com.svg" alt="Gerardagh" height="30" width="40" /></a>)
 
 ```yaml
 name: 404
