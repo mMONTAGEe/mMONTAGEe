@@ -26,6 +26,7 @@ education:
     "Learning C++, JS, React, Python, Java",
     "Self Taught Amateur Astronomy, Astrophysics and Planetology",
     "Self Taught Amateur Physics.",
+    "Always open for new Knowledges".
   ]
 
 educational_ambitions:
