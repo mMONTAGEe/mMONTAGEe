@@ -22,7 +22,7 @@ located_in: Yerevan, Armenia
 
 education:
   [
-    "Student at ԻՏԿՔ College",
+    "Student at Իրավա Տնտեսագիտական և կառավարման College",
     "Learning C++, JS, React, Python, Java",
     "Self Taught Amateur Astronomy, Astrophysics and Planetology",
     "Self Taught Amateur Physics.",
