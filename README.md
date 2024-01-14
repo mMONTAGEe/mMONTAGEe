@@ -23,7 +23,7 @@ located_in: Yerevan, Armenia
 education:
   [
     "Student at Իրավա Տնտեսագիտական և կառավարման College",
-    "Learning C++, JS, React, Python, Java",
+    "Learning C++, CEH, Computer Assembly",
     "Self Taught Amateur Astronomy, Astrophysics and Planetology",
     "Self Taught Amateur Physics.",
     "Always open for new Knowledges".
@@ -43,18 +43,19 @@ educational_ambitions:
 
 fields_of_interests:
   [
-    "Software Developer".
+    "Software Development".
+    "Computer Assembly/Engineering"
     "Network Engineering, Cybersecurity"
+    "Cybersecurity Analysis"
     "Web Development",
     "Software Translation",
     "Machine Learning",
     "Worldbuilding",
-    "Operation System",
     "Natural Sciences, Astronomy, Physics"
   ]
   
-currently_learning: ["C++"]
-hobbies: ["Gaming", "Books", "Stargazing"]
+currently_learning: ["C++, CEH"]
+hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 
 شكرا لك جيرارداغ على كل المساعدة!
 ```
