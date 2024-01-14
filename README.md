@@ -53,6 +53,25 @@ fields_of_interests:
     "Worldbuilding",
     "Natural Sciences, Astronomy, Physics"
   ]
+
+favourite:
+{
+  Games:
+    {
+    "Space Engine"
+    "Star Citizen"
+    "IXION"
+    "Red Dead Redemption 2"
+    "Team Fortress, Half Life, Portal"
+    }
+  Media:
+    {
+    "The Expanse"
+    "StarGate"
+    "Interstellar"
+    }
+}
+    
   
 currently_learning: ["C++, CEH"]
 hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
