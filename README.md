@@ -76,7 +76,6 @@ favourite:
 currently_learning: ["C++, CEH"]
 hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 
-شكرا لك جيرارداغ على كل المساعدة!
 ```
 <br>
 <h3 align="center">Languages and Tools:</h3>
