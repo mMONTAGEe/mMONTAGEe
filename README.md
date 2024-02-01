@@ -26,7 +26,7 @@ education:
     "Learning C++, CEH, Computer Assembly",
     "Self Taught Amateur Astronomy, Astrophysics and Planetology",
     "Self Taught Amateur Physics.",
-    "Always open for new Knowledges".
+    "Fast Learner".
   ]
 
 educational_ambitions:
