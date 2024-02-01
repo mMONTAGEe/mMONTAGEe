@@ -109,7 +109,10 @@ hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 <h2>Projects Portfolio</h2>
 <a href="https://github.com/mMONTAGEe/Projects-Vault/tree/master/bank_ATM_simulation">Bank ATM Simulation</a> <br>
   <a href="https://mmontagee-workshop.github.io/Distant-Worlds/">Distant Worlds Webpage and Worldbuilding </a> <br>
-    <a href="https://github.com/mMONTAGEe/Projects-Vault/tree/master/Quiz">Small quiz in C++ </a>
+    <a href="https://github.com/mMONTAGEe/Projects-Vault/tree/master/Quiz">Small quiz in C++ </a> <br>
+      <a href="https://github.com/mMONTAGEe-Workshop/Projects-Vault/tree/college-archive/Chraxyan-Temaner">Well Formatted PDF lections of C++ Language for college class </a> <br>
+   <a href="https://github.com/mMONTAGEe-Workshop/Projects-Vault/tree/network-pentest">Public Networking Notes </a> <br>
+     <a href="https://github.com/mMONTAGEe-Workshop/astronomy-reworked"> Rework of very first project on react (very raw) </a> <br>
 </div>
 
 <br>
