@@ -137,7 +137,7 @@ hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mMONTAGEe&theme=blue_green" style="text-align: center;">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mMONTAGEe&theme=blue_green&utcOffset=4" style="text-align: center;">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mMONTAGEe&theme=blue-green&hide_border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=682" alt="GitHub Streak" style="text-align: center;" /></a>
-      <img  src="https://cdn.discordapp.com/attachments/1125128279922311178/1202652662068289600/image.png" style="text-align: center;">
+      <img  src="https://cdn.discordapp.com/attachments/1125128279922311178/1202652662068289600/image.png?ex=65e9ec12&is=65d77712&hm=0736ace1063950784876156eba4f2a505c73d89cc2bf0be3267c612b32b1385b&" style="text-align: center;">
 </div>
 
 <br>
