@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF90&height=100&section=header"/>
 </p>
 
-![](https://github.com/mMONTAGEe/mMONTAGEe/blob/master/banner.png?raw=true)
+![](https://github.com/mMONTAGEe/mMONTAGEe/blob/main/banner.png?raw=true)
 <p align="center">
   Socials:
 <a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
