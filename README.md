@@ -5,16 +5,16 @@
 ![](https://github.com/mMONTAGEe/mMONTAGEe/blob/main/banner.png?raw=true)
 <p align="center">
   Socials:
-<a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
-<a href="https://crowdin.com/profile/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/e3acf3bbcd2080f6a6537ef4484b5e420ed58bce/crowdin-svgrepo-com.svg" alt="Crowdin" height="30" width="40" /></a>
-<a href="https://gamejolt.com/@mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-game-jolt.svg" alt="GameJolt" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31ybac5sqpk3dsneorr2ad2oorgq?si=04f2da9ca4994ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/8103de9c836720c3287943589028d01e635a1c6e/icons8-spotify.svg" alt="Spotify" height="30" width="40" /></a>
-<a href="https://modrinth.com/user/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/d9320aee4d1ab964e071bf43879719d1fec72808/modrinth.svg" alt="Modrinth" height="30" width="40" /></a>
-<a href="https://legacy.curseforge.com/members/mmontagee/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/fd90667b01da742c3badd426cf2b5e3d2a717450/icons8-curseforge.svg" alt="CurseForge" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/099380eb5ec9f5fa6d2809bcb5544f6a0ddbef6e/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mmontageworkshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-youtube.svg" alt="Workshop Youtube Channel" height="30" width="40" /></a>
+<a href="https://crowdin.com/profile/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/crowdin-svgrepo-com.svg" alt="Crowdin" height="30" width="40" /></a>
+<a href="https://gamejolt.com/@mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-game-jolt.svg" alt="GameJolt" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31ybac5sqpk3dsneorr2ad2oorgq?si=04f2da9ca4994ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-spotify.svg" alt="Spotify" height="30" width="40" /></a>
+<a href="https://modrinth.com/user/mMONTAGEe" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/modrinth.svg" alt="Modrinth" height="30" width="40" /></a>
+<a href="https://legacy.curseforge.com/members/mmontagee/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-curseforge.svg" alt="CurseForge" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
 <br>
 <br>
-( Partner <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/5b8df4b648a5c072ead8676610ccba7b39562a3b/telephone-svgrepo-com.svg" alt="Gerardagh" height="30" width="30" /></a>)
+( Partner <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/telephone-svgrepo-com.svg" alt="Gerardagh" height="30" width="30" /></a>)
     
 ```yaml
 name: 404
