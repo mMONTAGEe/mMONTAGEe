@@ -14,7 +14,7 @@
 <a href="https://steamcommunity.com/id/mmontagee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/icons8-steam.svg" alt="Steam" height="30" width="40" /></a>
 <br>
 <br>
-( Partner <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/0c78af78d84afb3f628d14d43a25165a26688b21/telephone-svgrepo-com.svg" alt="Gerardagh" height="30" width="30" /></a>)
+( Partner <a href="https://github.com/Gerardagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mMONTAGEe/mMONTAGEe/a85a1b828c4eb14ce706cc1f96b48eb027214a8b/skull-outline-of-halloween-svgrepo-com(2).svg" alt="Gerardagh" height="30" width="30" /></a>)
     
 ```yaml
 name: 404
@@ -130,7 +130,7 @@ hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 <hr>
 
 <p align="center">
-  <img src="https://github.com/mMONTAGEe/mMONTAGEe/blob/master/div.png?raw=true"/>
+  <img src="https://github.com/mMONTAGEe/mMONTAGEe/blob/main/div.png?raw=true"/>
 </p>
 
 <div style="text-align: center; align-content: center;">
