@@ -45,12 +45,10 @@ educational_ambitions:
 fields_of_interests:
   [
     "Network Engineering, Cybersecurity"
-    "Cybersecurity Analysis"
+    "Cybersecurity Analysis, Malware Analysis"
     "Software Development".
     "Computer Assembly/Engineering"
-    "Web Development",
     "Software Translation",
-    "Machine Learning",
     "Worldbuilding",
     "Natural Sciences, Astronomy, Physics"
   ]
@@ -76,7 +74,7 @@ favourite:
 }
     
   
-currently_learning: ["C++, CEH"]
+currently_learning: ["SOC, Theoretical Physics"]
 hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 
 ```
@@ -126,6 +124,15 @@ hobbies: ["Gaming", "Astronomy", "Fiction Worldbuilding"]
 <a href="https://github.com/mMONTAGEe-Workshop/DedSec">Networking related repo </a>
 </div>
 
+
+<br>
+<hr>
+<div align="center">
+<img src="https://i.imgur.com/UP3seNI.png" style="align-content: center;"/>
+<br>
+      <a href="https://mmontagee-workshop.github.io/Distant-Worlds/">Distant Worlds Wiki page </a> <br>
+            <a href="https://github.com/mMONTAGEe/Distant-Worlds-Books">Distant Worlds Novellas (Unfinished) </a> <br>
+  </div>
 <br>
 <hr>
 
