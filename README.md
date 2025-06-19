@@ -16,15 +16,6 @@ and also writer of Amaranth Legacy, Director of the scope  Distant Worlds
 Which is also part of the M>Workshop essentially
 
 ----------FAQ:----------
-
-Where does that username come from?
-
-* The name comes from second grade school by friends, for being good at video editing
-
-When did you get here?
-
-* September 5, 2024
-
 Primary Education?
 
 * Bachelors of Computer Science and Self-Taught Quantum Computing
