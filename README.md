@@ -16,6 +16,7 @@ and also writer of Amaranth Legacy, Director of the scope  Distant Worlds
 Which is also part of the M>Workshop essentially
 
 ----------FAQ:----------
+
 Primary Education?
 
 * Bachelors of Computer Science and Self-Taught Quantum Computing
